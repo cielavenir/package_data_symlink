@@ -1,4 +1,5 @@
 from setuptools import setup
+import distutils_symlink_enabler
 
 setup(
     name='package_data_symlink',
