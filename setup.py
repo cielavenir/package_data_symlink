@@ -6,6 +6,6 @@ setup(
     version='0.0.0.1',
     packages=['package_data_symlink'],
     # include_package_data=True,
-    package_data={'package_data_symlink':['data1/hello.txt','data2']},
+    package_data={'package_data_symlink':['data1/hello.txt','data2','file1.txt','file2.txt']},
     license='0BSD',
 )

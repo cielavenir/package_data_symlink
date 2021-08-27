@@ -1,4 +1,6 @@
-from . import greet
+from . import greetfile
+from . import greetdir
 
 if __name__ == '__main__':
-    greet()
+    greetfile()
+    greetdir()

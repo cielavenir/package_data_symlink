@@ -1,1 +1,1 @@
-Hello Symlink World
+Hello Directory Symlink World
